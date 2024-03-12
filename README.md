@@ -29,7 +29,15 @@ This program likely deals with complex numbers and performs operations like addi
 ## 10. Polymorphism Concepts: 
 This program probably demonstrates the concept of polymorphism in object-oriented programming, showcasing how objects of different classes can be treated uniformly.
 
-## 11.Abstract Class for Calculating the Perimeter: 
+## 12.Abstract Class for Calculating the Perimeter: 
 As described earlier, this program involves designing an abstract class to calculate the perimeter of various geometric shapes, demonstrating concepts of abstraction and polymorphism.
 
 
+- Name : HARSHITHA M R
+- USN: 4MH21CS034
+- Faculty name: Victor Ikechukwu Agughasi
+
+## Contributer
+[victor Ikechukwu Agughasi](https://github.com/Vector-Ikechukwu )
+
+[Harshitha M R](https://github.com/harshithagowdamr)
